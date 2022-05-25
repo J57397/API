@@ -1,0 +1,14 @@
+{
+	"connectionString": {
+		"server": "DESKTOP-3V20M85",
+		"database": "API",
+		"user": "sa",
+		"password": "Admin@123",
+		"port": 1433,
+		"connectionTimeout": 300000,
+		"requestTimeout": 300000,
+		"options": {
+			"encrypt": false
+		}
+	}
+}
